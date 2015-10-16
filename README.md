@@ -1,4 +1,4 @@
-### JHipster presentation
+### Proposal presentation
 
 This presention is made with reveal.js
 
